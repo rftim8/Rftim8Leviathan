@@ -1,0 +1,21 @@
+Note: Google Test filter = *_01497_CheckIfArrayPairsAreDivisiblebyk.expected*:*_01497_CheckIfArrayPairsAreDivisiblebyk0.expected*:*_01497_CheckIfArrayPairsAreDivisiblebyk1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01497_CheckIfArrayPairsAreDivisiblebyk
+[ RUN      ] _01497_CheckIfArrayPairsAreDivisiblebyk.expected
+[       OK ] _01497_CheckIfArrayPairsAreDivisiblebyk.expected (0 ms)
+[----------] 1 test from _01497_CheckIfArrayPairsAreDivisiblebyk (0 ms total)
+
+[----------] 1 test from _01497_CheckIfArrayPairsAreDivisiblebyk0
+[ RUN      ] _01497_CheckIfArrayPairsAreDivisiblebyk0.expected
+[       OK ] _01497_CheckIfArrayPairsAreDivisiblebyk0.expected (0 ms)
+[----------] 1 test from _01497_CheckIfArrayPairsAreDivisiblebyk0 (0 ms total)
+
+[----------] 1 test from _01497_CheckIfArrayPairsAreDivisiblebyk1
+[ RUN      ] _01497_CheckIfArrayPairsAreDivisiblebyk1.expected
+[       OK ] _01497_CheckIfArrayPairsAreDivisiblebyk1.expected (0 ms)
+[----------] 1 test from _01497_CheckIfArrayPairsAreDivisiblebyk1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

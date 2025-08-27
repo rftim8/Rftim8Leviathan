@@ -1,0 +1,21 @@
+Note: Google Test filter = *_02516_TakeKOfEachCharacterFromLeftandRight.expected*:*_02516_TakeKOfEachCharacterFromLeftandRight0.expected*:*_02516_TakeKOfEachCharacterFromLeftandRight1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02516_TakeKOfEachCharacterFromLeftandRight
+[ RUN      ] _02516_TakeKOfEachCharacterFromLeftandRight.expected
+[       OK ] _02516_TakeKOfEachCharacterFromLeftandRight.expected (0 ms)
+[----------] 1 test from _02516_TakeKOfEachCharacterFromLeftandRight (0 ms total)
+
+[----------] 1 test from _02516_TakeKOfEachCharacterFromLeftandRight0
+[ RUN      ] _02516_TakeKOfEachCharacterFromLeftandRight0.expected
+[       OK ] _02516_TakeKOfEachCharacterFromLeftandRight0.expected (0 ms)
+[----------] 1 test from _02516_TakeKOfEachCharacterFromLeftandRight0 (0 ms total)
+
+[----------] 1 test from _02516_TakeKOfEachCharacterFromLeftandRight1
+[ RUN      ] _02516_TakeKOfEachCharacterFromLeftandRight1.expected
+[       OK ] _02516_TakeKOfEachCharacterFromLeftandRight1.expected (0 ms)
+[----------] 1 test from _02516_TakeKOfEachCharacterFromLeftandRight1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (1 ms total)
+[  PASSED  ] 3 tests.

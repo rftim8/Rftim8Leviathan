@@ -1,0 +1,21 @@
+Note: Google Test filter = *_00078_Subsets.expected*:*_00078_Subsets0.expected*:*_00078_Subsets1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00078_Subsets
+[ RUN      ] _00078_Subsets.expected
+[       OK ] _00078_Subsets.expected (0 ms)
+[----------] 1 test from _00078_Subsets (0 ms total)
+
+[----------] 1 test from _00078_Subsets0
+[ RUN      ] _00078_Subsets0.expected
+[       OK ] _00078_Subsets0.expected (0 ms)
+[----------] 1 test from _00078_Subsets0 (0 ms total)
+
+[----------] 1 test from _00078_Subsets1
+[ RUN      ] _00078_Subsets1.expected
+[       OK ] _00078_Subsets1.expected (0 ms)
+[----------] 1 test from _00078_Subsets1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

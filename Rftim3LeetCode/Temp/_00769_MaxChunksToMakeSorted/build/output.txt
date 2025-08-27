@@ -1,0 +1,26 @@
+Note: Google Test filter = *_00769_MaxChunksToMakeSorted.expected*:*_00769_MaxChunksToMakeSorted0.expected*:*_00769_MaxChunksToMakeSorted1.expected*:*_00769_MaxChunksToMakeSorted2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00769_MaxChunksToMakeSorted
+[ RUN      ] _00769_MaxChunksToMakeSorted.expected
+[       OK ] _00769_MaxChunksToMakeSorted.expected (0 ms)
+[----------] 1 test from _00769_MaxChunksToMakeSorted (0 ms total)
+
+[----------] 1 test from _00769_MaxChunksToMakeSorted0
+[ RUN      ] _00769_MaxChunksToMakeSorted0.expected
+[       OK ] _00769_MaxChunksToMakeSorted0.expected (0 ms)
+[----------] 1 test from _00769_MaxChunksToMakeSorted0 (0 ms total)
+
+[----------] 1 test from _00769_MaxChunksToMakeSorted1
+[ RUN      ] _00769_MaxChunksToMakeSorted1.expected
+[       OK ] _00769_MaxChunksToMakeSorted1.expected (0 ms)
+[----------] 1 test from _00769_MaxChunksToMakeSorted1 (0 ms total)
+
+[----------] 1 test from _00769_MaxChunksToMakeSorted2
+[ RUN      ] _00769_MaxChunksToMakeSorted2.expected
+[       OK ] _00769_MaxChunksToMakeSorted2.expected (0 ms)
+[----------] 1 test from _00769_MaxChunksToMakeSorted2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

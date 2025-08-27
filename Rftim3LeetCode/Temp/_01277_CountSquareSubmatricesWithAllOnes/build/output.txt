@@ -1,0 +1,21 @@
+Note: Google Test filter = *_01277_CountSquareSubmatricesWithAllOnes.expected*:*_01277_CountSquareSubmatricesWithAllOnes0.expected*:*_01277_CountSquareSubmatricesWithAllOnes1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01277_CountSquareSubmatricesWithAllOnes
+[ RUN      ] _01277_CountSquareSubmatricesWithAllOnes.expected
+[       OK ] _01277_CountSquareSubmatricesWithAllOnes.expected (0 ms)
+[----------] 1 test from _01277_CountSquareSubmatricesWithAllOnes (0 ms total)
+
+[----------] 1 test from _01277_CountSquareSubmatricesWithAllOnes0
+[ RUN      ] _01277_CountSquareSubmatricesWithAllOnes0.expected
+[       OK ] _01277_CountSquareSubmatricesWithAllOnes0.expected (0 ms)
+[----------] 1 test from _01277_CountSquareSubmatricesWithAllOnes0 (0 ms total)
+
+[----------] 1 test from _01277_CountSquareSubmatricesWithAllOnes1
+[ RUN      ] _01277_CountSquareSubmatricesWithAllOnes1.expected
+[       OK ] _01277_CountSquareSubmatricesWithAllOnes1.expected (0 ms)
+[----------] 1 test from _01277_CountSquareSubmatricesWithAllOnes1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

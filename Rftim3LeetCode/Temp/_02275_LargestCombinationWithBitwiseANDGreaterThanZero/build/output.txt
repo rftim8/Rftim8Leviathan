@@ -1,0 +1,21 @@
+Note: Google Test filter = *_02275_LargestCombinationWithBitwiseANDGreaterThanZero.expected*:*_02275_LargestCombinationWithBitwiseANDGreaterThanZero0.expected*:*_02275_LargestCombinationWithBitwiseANDGreaterThanZero1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02275_LargestCombinationWithBitwiseANDGreaterThanZero
+[ RUN      ] _02275_LargestCombinationWithBitwiseANDGreaterThanZero.expected
+[       OK ] _02275_LargestCombinationWithBitwiseANDGreaterThanZero.expected (0 ms)
+[----------] 1 test from _02275_LargestCombinationWithBitwiseANDGreaterThanZero (0 ms total)
+
+[----------] 1 test from _02275_LargestCombinationWithBitwiseANDGreaterThanZero0
+[ RUN      ] _02275_LargestCombinationWithBitwiseANDGreaterThanZero0.expected
+[       OK ] _02275_LargestCombinationWithBitwiseANDGreaterThanZero0.expected (0 ms)
+[----------] 1 test from _02275_LargestCombinationWithBitwiseANDGreaterThanZero0 (0 ms total)
+
+[----------] 1 test from _02275_LargestCombinationWithBitwiseANDGreaterThanZero1
+[ RUN      ] _02275_LargestCombinationWithBitwiseANDGreaterThanZero1.expected
+[       OK ] _02275_LargestCombinationWithBitwiseANDGreaterThanZero1.expected (0 ms)
+[----------] 1 test from _02275_LargestCombinationWithBitwiseANDGreaterThanZero1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

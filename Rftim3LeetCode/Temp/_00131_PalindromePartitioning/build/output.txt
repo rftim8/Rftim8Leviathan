@@ -1,0 +1,13 @@
+Note: Google Test filter = *_00131_PalindromePartitioning.expected*
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from _00131_PalindromePartitioning
+[ RUN      ] _00131_PalindromePartitioning.expected
+[       OK ] _00131_PalindromePartitioning.expected (0 ms)
+[----------] 1 test from _00131_PalindromePartitioning (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+[[a,a,b],[aa,b]]
+[[a]]

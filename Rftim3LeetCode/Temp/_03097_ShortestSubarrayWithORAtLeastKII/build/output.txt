@@ -1,0 +1,21 @@
+Note: Google Test filter = *_03097_ShortestSubarrayWithORAtLeastKII.expected*:*_03097_ShortestSubarrayWithORAtLeastKII0.expected*:*_03097_ShortestSubarrayWithORAtLeastKII1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _03097_ShortestSubarrayWithORAtLeastKII
+[ RUN      ] _03097_ShortestSubarrayWithORAtLeastKII.expected
+[       OK ] _03097_ShortestSubarrayWithORAtLeastKII.expected (0 ms)
+[----------] 1 test from _03097_ShortestSubarrayWithORAtLeastKII (0 ms total)
+
+[----------] 1 test from _03097_ShortestSubarrayWithORAtLeastKII0
+[ RUN      ] _03097_ShortestSubarrayWithORAtLeastKII0.expected
+[       OK ] _03097_ShortestSubarrayWithORAtLeastKII0.expected (0 ms)
+[----------] 1 test from _03097_ShortestSubarrayWithORAtLeastKII0 (0 ms total)
+
+[----------] 1 test from _03097_ShortestSubarrayWithORAtLeastKII1
+[ RUN      ] _03097_ShortestSubarrayWithORAtLeastKII1.expected
+[       OK ] _03097_ShortestSubarrayWithORAtLeastKII1.expected (0 ms)
+[----------] 1 test from _03097_ShortestSubarrayWithORAtLeastKII1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

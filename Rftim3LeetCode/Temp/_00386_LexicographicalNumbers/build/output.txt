@@ -1,0 +1,16 @@
+Note: Google Test filter = *_00386_LexicographicalNumbers.expected*:*_00386_LexicographicalNumbers0.expected*
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00386_LexicographicalNumbers
+[ RUN      ] _00386_LexicographicalNumbers.expected
+[       OK ] _00386_LexicographicalNumbers.expected (0 ms)
+[----------] 1 test from _00386_LexicographicalNumbers (0 ms total)
+
+[----------] 1 test from _00386_LexicographicalNumbers0
+[ RUN      ] _00386_LexicographicalNumbers0.expected
+[       OK ] _00386_LexicographicalNumbers0.expected (0 ms)
+[----------] 1 test from _00386_LexicographicalNumbers0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 2 tests.

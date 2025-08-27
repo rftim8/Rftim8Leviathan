@@ -1,0 +1,21 @@
+Note: Google Test filter = *_01422_MaximumScoreAfterSplittingAString.expected*:*_01422_MaximumScoreAfterSplittingAString0.expected*:*_01422_MaximumScoreAfterSplittingAString1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01422_MaximumScoreAfterSplittingAString
+[ RUN      ] _01422_MaximumScoreAfterSplittingAString.expected
+[       OK ] _01422_MaximumScoreAfterSplittingAString.expected (0 ms)
+[----------] 1 test from _01422_MaximumScoreAfterSplittingAString (0 ms total)
+
+[----------] 1 test from _01422_MaximumScoreAfterSplittingAString0
+[ RUN      ] _01422_MaximumScoreAfterSplittingAString0.expected
+[       OK ] _01422_MaximumScoreAfterSplittingAString0.expected (0 ms)
+[----------] 1 test from _01422_MaximumScoreAfterSplittingAString0 (0 ms total)
+
+[----------] 1 test from _01422_MaximumScoreAfterSplittingAString1
+[ RUN      ] _01422_MaximumScoreAfterSplittingAString1.expected
+[       OK ] _01422_MaximumScoreAfterSplittingAString1.expected (0 ms)
+[----------] 1 test from _01422_MaximumScoreAfterSplittingAString1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

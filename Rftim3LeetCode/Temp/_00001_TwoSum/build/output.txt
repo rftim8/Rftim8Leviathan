@@ -1,0 +1,6 @@
+Note: Google Test filter = *_00001_TwoSum.expected*:*_00001_TwoSum0.expected*
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00001_TwoSum
+[ RUN      ] _00001_TwoSum.expected
+[       OK ] _00001_TwoSum.expected (0 ms)

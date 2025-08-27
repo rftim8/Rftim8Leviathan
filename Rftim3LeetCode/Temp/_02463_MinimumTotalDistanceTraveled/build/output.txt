@@ -1,0 +1,31 @@
+Note: Google Test filter = *_02463_MinimumTotalDistanceTraveled.expected*:*_02463_MinimumTotalDistanceTraveled0.expected*:*_02463_MinimumTotalDistanceTraveled1.expected*:*_02463_MinimumTotalDistanceTraveled2.expected*:*_02463_MinimumTotalDistanceTraveled3.expected*
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled
+[ RUN      ] _02463_MinimumTotalDistanceTraveled.expected
+[       OK ] _02463_MinimumTotalDistanceTraveled.expected (0 ms)
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled (0 ms total)
+
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled0
+[ RUN      ] _02463_MinimumTotalDistanceTraveled0.expected
+[       OK ] _02463_MinimumTotalDistanceTraveled0.expected (0 ms)
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled0 (0 ms total)
+
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled1
+[ RUN      ] _02463_MinimumTotalDistanceTraveled1.expected
+[       OK ] _02463_MinimumTotalDistanceTraveled1.expected (0 ms)
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled1 (0 ms total)
+
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled2
+[ RUN      ] _02463_MinimumTotalDistanceTraveled2.expected
+[       OK ] _02463_MinimumTotalDistanceTraveled2.expected (0 ms)
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled2 (0 ms total)
+
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled3
+[ RUN      ] _02463_MinimumTotalDistanceTraveled3.expected
+[       OK ] _02463_MinimumTotalDistanceTraveled3.expected (0 ms)
+[----------] 1 test from _02463_MinimumTotalDistanceTraveled3 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (0 ms total)
+[  PASSED  ] 5 tests.

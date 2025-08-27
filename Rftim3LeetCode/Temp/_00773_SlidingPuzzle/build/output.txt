@@ -1,0 +1,16 @@
+Note: Google Test filter = *_00773_SlidingPuzzle.expected*:*_00773_SlidingPuzzle0.expected*
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00773_SlidingPuzzle
+[ RUN      ] _00773_SlidingPuzzle.expected
+[       OK ] _00773_SlidingPuzzle.expected (21 ms)
+[----------] 1 test from _00773_SlidingPuzzle (21 ms total)
+
+[----------] 1 test from _00773_SlidingPuzzle0
+[ RUN      ] _00773_SlidingPuzzle0.expected
+[       OK ] _00773_SlidingPuzzle0.expected (0 ms)
+[----------] 1 test from _00773_SlidingPuzzle0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test suites ran. (22 ms total)
+[  PASSED  ] 2 tests.

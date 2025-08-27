@@ -1,0 +1,26 @@
+Note: Google Test filter = *_02406_DivideIntervalsIntoMinimumNumberOfGroups.expected*:*_02406_DivideIntervalsIntoMinimumNumberOfGroups0.expected*:*_02406_DivideIntervalsIntoMinimumNumberOfGroups1.expected*:*_02406_DivideIntervalsIntoMinimumNumberOfGroups2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02406_DivideIntervalsIntoMinimumNumberOfGroups
+[ RUN      ] _02406_DivideIntervalsIntoMinimumNumberOfGroups.expected
+[       OK ] _02406_DivideIntervalsIntoMinimumNumberOfGroups.expected (0 ms)
+[----------] 1 test from _02406_DivideIntervalsIntoMinimumNumberOfGroups (0 ms total)
+
+[----------] 1 test from _02406_DivideIntervalsIntoMinimumNumberOfGroups0
+[ RUN      ] _02406_DivideIntervalsIntoMinimumNumberOfGroups0.expected
+[       OK ] _02406_DivideIntervalsIntoMinimumNumberOfGroups0.expected (0 ms)
+[----------] 1 test from _02406_DivideIntervalsIntoMinimumNumberOfGroups0 (0 ms total)
+
+[----------] 1 test from _02406_DivideIntervalsIntoMinimumNumberOfGroups1
+[ RUN      ] _02406_DivideIntervalsIntoMinimumNumberOfGroups1.expected
+[       OK ] _02406_DivideIntervalsIntoMinimumNumberOfGroups1.expected (0 ms)
+[----------] 1 test from _02406_DivideIntervalsIntoMinimumNumberOfGroups1 (0 ms total)
+
+[----------] 1 test from _02406_DivideIntervalsIntoMinimumNumberOfGroups2
+[ RUN      ] _02406_DivideIntervalsIntoMinimumNumberOfGroups2.expected
+[       OK ] _02406_DivideIntervalsIntoMinimumNumberOfGroups2.expected (0 ms)
+[----------] 1 test from _02406_DivideIntervalsIntoMinimumNumberOfGroups2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

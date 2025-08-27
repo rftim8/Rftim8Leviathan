@@ -1,0 +1,21 @@
+Note: Google Test filter = *_03160_FindTheNumberOfDistinctColorsAmongTheBalls.expected*:*_03160_FindTheNumberOfDistinctColorsAmongTheBalls_0.expected*:*_03160_FindTheNumberOfDistinctColorsAmongTheBalls_1.expected*:
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _03160_FindTheNumberOfDistinctColorsAmongTheBalls
+[ RUN      ] _03160_FindTheNumberOfDistinctColorsAmongTheBalls.expected
+[       OK ] _03160_FindTheNumberOfDistinctColorsAmongTheBalls.expected (0 ms)
+[----------] 1 test from _03160_FindTheNumberOfDistinctColorsAmongTheBalls (0 ms total)
+
+[----------] 1 test from _03160_FindTheNumberOfDistinctColorsAmongTheBalls_0
+[ RUN      ] _03160_FindTheNumberOfDistinctColorsAmongTheBalls_0.expected
+[       OK ] _03160_FindTheNumberOfDistinctColorsAmongTheBalls_0.expected (0 ms)
+[----------] 1 test from _03160_FindTheNumberOfDistinctColorsAmongTheBalls_0 (0 ms total)
+
+[----------] 1 test from _03160_FindTheNumberOfDistinctColorsAmongTheBalls_1
+[ RUN      ] _03160_FindTheNumberOfDistinctColorsAmongTheBalls_1.expected
+[       OK ] _03160_FindTheNumberOfDistinctColorsAmongTheBalls_1.expected (0 ms)
+[----------] 1 test from _03160_FindTheNumberOfDistinctColorsAmongTheBalls_1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

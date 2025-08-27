@@ -1,0 +1,21 @@
+Note: Google Test filter = *_01405_LongestHappyString.expected*:*_01405_LongestHappyString0.expected*:*_01405_LongestHappyString1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01405_LongestHappyString
+[ RUN      ] _01405_LongestHappyString.expected
+[       OK ] _01405_LongestHappyString.expected (0 ms)
+[----------] 1 test from _01405_LongestHappyString (0 ms total)
+
+[----------] 1 test from _01405_LongestHappyString0
+[ RUN      ] _01405_LongestHappyString0.expected
+[       OK ] _01405_LongestHappyString0.expected (0 ms)
+[----------] 1 test from _01405_LongestHappyString0 (0 ms total)
+
+[----------] 1 test from _01405_LongestHappyString1
+[ RUN      ] _01405_LongestHappyString1.expected
+[       OK ] _01405_LongestHappyString1.expected (0 ms)
+[----------] 1 test from _01405_LongestHappyString1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

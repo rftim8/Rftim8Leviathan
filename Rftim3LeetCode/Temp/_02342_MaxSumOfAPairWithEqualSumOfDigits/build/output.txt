@@ -1,0 +1,21 @@
+Note: Google Test filter = *_02342_MaxSumOfAPairWithEqualSumOfDigits.expected*:*_02342_MaxSumOfAPairWithEqualSumOfDigits_0.expected*:*_02342_MaxSumOfAPairWithEqualSumOfDigits_1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02342_MaxSumOfAPairWithEqualSumOfDigits
+[ RUN      ] _02342_MaxSumOfAPairWithEqualSumOfDigits.expected
+[       OK ] _02342_MaxSumOfAPairWithEqualSumOfDigits.expected (0 ms)
+[----------] 1 test from _02342_MaxSumOfAPairWithEqualSumOfDigits (0 ms total)
+
+[----------] 1 test from _02342_MaxSumOfAPairWithEqualSumOfDigits_0
+[ RUN      ] _02342_MaxSumOfAPairWithEqualSumOfDigits_0.expected
+[       OK ] _02342_MaxSumOfAPairWithEqualSumOfDigits_0.expected (0 ms)
+[----------] 1 test from _02342_MaxSumOfAPairWithEqualSumOfDigits_0 (0 ms total)
+
+[----------] 1 test from _02342_MaxSumOfAPairWithEqualSumOfDigits_1
+[ RUN      ] _02342_MaxSumOfAPairWithEqualSumOfDigits_1.expected
+[       OK ] _02342_MaxSumOfAPairWithEqualSumOfDigits_1.expected (0 ms)
+[----------] 1 test from _02342_MaxSumOfAPairWithEqualSumOfDigits_1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

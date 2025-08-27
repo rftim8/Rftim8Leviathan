@@ -1,0 +1,31 @@
+Note: Google Test filter = *_01545_FindKthBitinNthBinaryString.expected*:*_01545_FindKthBitinNthBinaryString0.expected*:*_01545_FindKthBitinNthBinaryString1.expected*:*_01545_FindKthBitinNthBinaryString2.expected*:*_01545_FindKthBitinNthBinaryString3.expected*
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01545_FindKthBitinNthBinaryString
+[ RUN      ] _01545_FindKthBitinNthBinaryString.expected
+[       OK ] _01545_FindKthBitinNthBinaryString.expected (0 ms)
+[----------] 1 test from _01545_FindKthBitinNthBinaryString (0 ms total)
+
+[----------] 1 test from _01545_FindKthBitinNthBinaryString0
+[ RUN      ] _01545_FindKthBitinNthBinaryString0.expected
+[       OK ] _01545_FindKthBitinNthBinaryString0.expected (0 ms)
+[----------] 1 test from _01545_FindKthBitinNthBinaryString0 (0 ms total)
+
+[----------] 1 test from _01545_FindKthBitinNthBinaryString1
+[ RUN      ] _01545_FindKthBitinNthBinaryString1.expected
+[       OK ] _01545_FindKthBitinNthBinaryString1.expected (0 ms)
+[----------] 1 test from _01545_FindKthBitinNthBinaryString1 (0 ms total)
+
+[----------] 1 test from _01545_FindKthBitinNthBinaryString2
+[ RUN      ] _01545_FindKthBitinNthBinaryString2.expected
+[       OK ] _01545_FindKthBitinNthBinaryString2.expected (0 ms)
+[----------] 1 test from _01545_FindKthBitinNthBinaryString2 (0 ms total)
+
+[----------] 1 test from _01545_FindKthBitinNthBinaryString3
+[ RUN      ] _01545_FindKthBitinNthBinaryString3.expected
+[       OK ] _01545_FindKthBitinNthBinaryString3.expected (0 ms)
+[----------] 1 test from _01545_FindKthBitinNthBinaryString3 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (0 ms total)
+[  PASSED  ] 5 tests.

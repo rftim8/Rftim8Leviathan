@@ -1,0 +1,11 @@
+Note: Google Test filter = *_01800_MaximumAscendingSubarraySum.expected*
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from _01800_MaximumAscendingSubarraySum
+[ RUN      ] _01800_MaximumAscendingSubarraySum.expected
+[       OK ] _01800_MaximumAscendingSubarraySum.expected (0 ms)
+[----------] 1 test from _01800_MaximumAscendingSubarraySum (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.

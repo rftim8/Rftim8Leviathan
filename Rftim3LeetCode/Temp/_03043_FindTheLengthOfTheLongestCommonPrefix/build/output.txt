@@ -1,0 +1,21 @@
+Note: Google Test filter = *_03043_FindTheLengthOfTheLongestCommonPrefix.expected*:*_03043_FindTheLengthOfTheLongestCommonPrefix0.expected*:*_03043_FindTheLengthOfTheLongestCommonPrefix1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _03043_FindTheLengthOfTheLongestCommonPrefix
+[ RUN      ] _03043_FindTheLengthOfTheLongestCommonPrefix.expected
+[       OK ] _03043_FindTheLengthOfTheLongestCommonPrefix.expected (0 ms)
+[----------] 1 test from _03043_FindTheLengthOfTheLongestCommonPrefix (0 ms total)
+
+[----------] 1 test from _03043_FindTheLengthOfTheLongestCommonPrefix0
+[ RUN      ] _03043_FindTheLengthOfTheLongestCommonPrefix0.expected
+[       OK ] _03043_FindTheLengthOfTheLongestCommonPrefix0.expected (0 ms)
+[----------] 1 test from _03043_FindTheLengthOfTheLongestCommonPrefix0 (0 ms total)
+
+[----------] 1 test from _03043_FindTheLengthOfTheLongestCommonPrefix1
+[ RUN      ] _03043_FindTheLengthOfTheLongestCommonPrefix1.expected
+[       OK ] _03043_FindTheLengthOfTheLongestCommonPrefix1.expected (0 ms)
+[----------] 1 test from _03043_FindTheLengthOfTheLongestCommonPrefix1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

@@ -1,0 +1,21 @@
+Note: Google Test filter = *_00951_FlipEquivalentBinaryTrees.expected*:*_00951_FlipEquivalentBinaryTrees0.expected*:*_00951_FlipEquivalentBinaryTrees1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00951_FlipEquivalentBinaryTrees
+[ RUN      ] _00951_FlipEquivalentBinaryTrees.expected
+[       OK ] _00951_FlipEquivalentBinaryTrees.expected (0 ms)
+[----------] 1 test from _00951_FlipEquivalentBinaryTrees (0 ms total)
+
+[----------] 1 test from _00951_FlipEquivalentBinaryTrees0
+[ RUN      ] _00951_FlipEquivalentBinaryTrees0.expected
+[       OK ] _00951_FlipEquivalentBinaryTrees0.expected (0 ms)
+[----------] 1 test from _00951_FlipEquivalentBinaryTrees0 (0 ms total)
+
+[----------] 1 test from _00951_FlipEquivalentBinaryTrees1
+[ RUN      ] _00951_FlipEquivalentBinaryTrees1.expected
+[       OK ] _00951_FlipEquivalentBinaryTrees1.expected (0 ms)
+[----------] 1 test from _00951_FlipEquivalentBinaryTrees1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

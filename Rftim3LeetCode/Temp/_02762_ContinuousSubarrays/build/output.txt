@@ -1,0 +1,31 @@
+Note: Google Test filter = *_02762_ContinuousSubarrays.expected*:*_02762_ContinuousSubarrays0.expected*:*_02762_ContinuousSubarrays1.expected*:*_02762_ContinuousSubarrays2.expected*:*_02762_ContinuousSubarrays3.expected*
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02762_ContinuousSubarrays
+[ RUN      ] _02762_ContinuousSubarrays.expected
+[       OK ] _02762_ContinuousSubarrays.expected (0 ms)
+[----------] 1 test from _02762_ContinuousSubarrays (0 ms total)
+
+[----------] 1 test from _02762_ContinuousSubarrays0
+[ RUN      ] _02762_ContinuousSubarrays0.expected
+[       OK ] _02762_ContinuousSubarrays0.expected (0 ms)
+[----------] 1 test from _02762_ContinuousSubarrays0 (0 ms total)
+
+[----------] 1 test from _02762_ContinuousSubarrays1
+[ RUN      ] _02762_ContinuousSubarrays1.expected
+[       OK ] _02762_ContinuousSubarrays1.expected (0 ms)
+[----------] 1 test from _02762_ContinuousSubarrays1 (0 ms total)
+
+[----------] 1 test from _02762_ContinuousSubarrays2
+[ RUN      ] _02762_ContinuousSubarrays2.expected
+[       OK ] _02762_ContinuousSubarrays2.expected (0 ms)
+[----------] 1 test from _02762_ContinuousSubarrays2 (0 ms total)
+
+[----------] 1 test from _02762_ContinuousSubarrays3
+[ RUN      ] _02762_ContinuousSubarrays3.expected
+[       OK ] _02762_ContinuousSubarrays3.expected (0 ms)
+[----------] 1 test from _02762_ContinuousSubarrays3 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (0 ms total)
+[  PASSED  ] 5 tests.

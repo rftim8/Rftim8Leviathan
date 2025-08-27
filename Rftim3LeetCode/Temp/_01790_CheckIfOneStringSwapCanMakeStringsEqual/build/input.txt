@@ -1,0 +1,11 @@
+3
+3
+bank
+kanb
+1
+attack
+defend
+0
+kelb
+kelb
+1

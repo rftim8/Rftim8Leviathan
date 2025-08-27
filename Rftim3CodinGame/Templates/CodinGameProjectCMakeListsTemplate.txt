@@ -1,0 +1,2 @@
+project([prob] VERSION 0.1.0 LANGUAGES C CXX)
+add_subdirectory(Rftim3CodinGame/Problems/[comp]/[prob])

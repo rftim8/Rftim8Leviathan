@@ -1,0 +1,26 @@
+Note: Google Test filter = *_02337_MovePiecesToObtainAString.expected*:*_02337_MovePiecesToObtainAString0.expected*:*_02337_MovePiecesToObtainAString1.expected*:*_02337_MovePiecesToObtainAString2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02337_MovePiecesToObtainAString
+[ RUN      ] _02337_MovePiecesToObtainAString.expected
+[       OK ] _02337_MovePiecesToObtainAString.expected (0 ms)
+[----------] 1 test from _02337_MovePiecesToObtainAString (0 ms total)
+
+[----------] 1 test from _02337_MovePiecesToObtainAString0
+[ RUN      ] _02337_MovePiecesToObtainAString0.expected
+[       OK ] _02337_MovePiecesToObtainAString0.expected (0 ms)
+[----------] 1 test from _02337_MovePiecesToObtainAString0 (0 ms total)
+
+[----------] 1 test from _02337_MovePiecesToObtainAString1
+[ RUN      ] _02337_MovePiecesToObtainAString1.expected
+[       OK ] _02337_MovePiecesToObtainAString1.expected (0 ms)
+[----------] 1 test from _02337_MovePiecesToObtainAString1 (0 ms total)
+
+[----------] 1 test from _02337_MovePiecesToObtainAString2
+[ RUN      ] _02337_MovePiecesToObtainAString2.expected
+[       OK ] _02337_MovePiecesToObtainAString2.expected (0 ms)
+[----------] 1 test from _02337_MovePiecesToObtainAString2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

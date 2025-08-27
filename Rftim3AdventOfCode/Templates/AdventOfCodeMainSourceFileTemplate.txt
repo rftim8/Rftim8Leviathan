@@ -1,0 +1,22 @@
+#include "main.hh"
+
+int main()
+{
+    speedup();
+    system("cls");
+    
+    std::string problem_name = refactorProblemNumber(__FILE__);
+    openAdventOfCodeProblemIOFiles(problem_name);
+
+    dataCollector();
+
+    for (int i = 0; i < _n; i++)
+    {
+        [sol](_v[i]);
+        [sol]_test(i, [sol](_v[i]), _v0[i]);
+    }
+
+    closeIOStreams();
+
+    return 0;
+}

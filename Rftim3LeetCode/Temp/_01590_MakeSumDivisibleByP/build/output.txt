@@ -1,0 +1,21 @@
+Note: Google Test filter = *_01590_MakeSumDivisibleByP.expected*:*_01590_MakeSumDivisibleByP0.expected*:*_01590_MakeSumDivisibleByP1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01590_MakeSumDivisibleByP
+[ RUN      ] _01590_MakeSumDivisibleByP.expected
+[       OK ] _01590_MakeSumDivisibleByP.expected (0 ms)
+[----------] 1 test from _01590_MakeSumDivisibleByP (0 ms total)
+
+[----------] 1 test from _01590_MakeSumDivisibleByP0
+[ RUN      ] _01590_MakeSumDivisibleByP0.expected
+[       OK ] _01590_MakeSumDivisibleByP0.expected (0 ms)
+[----------] 1 test from _01590_MakeSumDivisibleByP0 (0 ms total)
+
+[----------] 1 test from _01590_MakeSumDivisibleByP1
+[ RUN      ] _01590_MakeSumDivisibleByP1.expected
+[       OK ] _01590_MakeSumDivisibleByP1.expected (0 ms)
+[----------] 1 test from _01590_MakeSumDivisibleByP1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

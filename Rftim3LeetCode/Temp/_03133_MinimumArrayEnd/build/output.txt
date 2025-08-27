@@ -1,0 +1,26 @@
+Note: Google Test filter = *_03133_MinimumArrayEnd.expected*:*_03133_MinimumArrayEnd0.expected*:*_03133_MinimumArrayEnd1.expected*:*_03133_MinimumArrayEnd2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _03133_MinimumArrayEnd
+[ RUN      ] _03133_MinimumArrayEnd.expected
+[       OK ] _03133_MinimumArrayEnd.expected (0 ms)
+[----------] 1 test from _03133_MinimumArrayEnd (0 ms total)
+
+[----------] 1 test from _03133_MinimumArrayEnd0
+[ RUN      ] _03133_MinimumArrayEnd0.expected
+[       OK ] _03133_MinimumArrayEnd0.expected (0 ms)
+[----------] 1 test from _03133_MinimumArrayEnd0 (0 ms total)
+
+[----------] 1 test from _03133_MinimumArrayEnd1
+[ RUN      ] _03133_MinimumArrayEnd1.expected
+[       OK ] _03133_MinimumArrayEnd1.expected (0 ms)
+[----------] 1 test from _03133_MinimumArrayEnd1 (0 ms total)
+
+[----------] 1 test from _03133_MinimumArrayEnd2
+[ RUN      ] _03133_MinimumArrayEnd2.expected
+[       OK ] _03133_MinimumArrayEnd2.expected (0 ms)
+[----------] 1 test from _03133_MinimumArrayEnd2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

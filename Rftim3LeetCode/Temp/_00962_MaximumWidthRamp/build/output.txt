@@ -1,0 +1,31 @@
+Note: Google Test filter = *_00962_MaximumWidthRamp.expected*:*_00962_MaximumWidthRamp0.expected*:*_00962_MaximumWidthRamp1.expected*:*_00962_MaximumWidthRamp2.expected*:*_00962_MaximumWidthRamp3.expected*
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00962_MaximumWidthRamp
+[ RUN      ] _00962_MaximumWidthRamp.expected
+[       OK ] _00962_MaximumWidthRamp.expected (0 ms)
+[----------] 1 test from _00962_MaximumWidthRamp (0 ms total)
+
+[----------] 1 test from _00962_MaximumWidthRamp0
+[ RUN      ] _00962_MaximumWidthRamp0.expected
+[       OK ] _00962_MaximumWidthRamp0.expected (0 ms)
+[----------] 1 test from _00962_MaximumWidthRamp0 (0 ms total)
+
+[----------] 1 test from _00962_MaximumWidthRamp1
+[ RUN      ] _00962_MaximumWidthRamp1.expected
+[       OK ] _00962_MaximumWidthRamp1.expected (0 ms)
+[----------] 1 test from _00962_MaximumWidthRamp1 (0 ms total)
+
+[----------] 1 test from _00962_MaximumWidthRamp2
+[ RUN      ] _00962_MaximumWidthRamp2.expected
+[       OK ] _00962_MaximumWidthRamp2.expected (0 ms)
+[----------] 1 test from _00962_MaximumWidthRamp2 (0 ms total)
+
+[----------] 1 test from _00962_MaximumWidthRamp3
+[ RUN      ] _00962_MaximumWidthRamp3.expected
+[       OK ] _00962_MaximumWidthRamp3.expected (0 ms)
+[----------] 1 test from _00962_MaximumWidthRamp3 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (0 ms total)
+[  PASSED  ] 5 tests.

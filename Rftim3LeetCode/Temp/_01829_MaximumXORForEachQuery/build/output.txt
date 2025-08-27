@@ -1,0 +1,21 @@
+Note: Google Test filter = *_01829_MaximumXORForEachQuery.expected*:*_01829_MaximumXORForEachQuery0.expected*:*_01829_MaximumXORForEachQuery1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01829_MaximumXORForEachQuery
+[ RUN      ] _01829_MaximumXORForEachQuery.expected
+[       OK ] _01829_MaximumXORForEachQuery.expected (0 ms)
+[----------] 1 test from _01829_MaximumXORForEachQuery (0 ms total)
+
+[----------] 1 test from _01829_MaximumXORForEachQuery0
+[ RUN      ] _01829_MaximumXORForEachQuery0.expected
+[       OK ] _01829_MaximumXORForEachQuery0.expected (0 ms)
+[----------] 1 test from _01829_MaximumXORForEachQuery0 (0 ms total)
+
+[----------] 1 test from _01829_MaximumXORForEachQuery1
+[ RUN      ] _01829_MaximumXORForEachQuery1.expected
+[       OK ] _01829_MaximumXORForEachQuery1.expected (0 ms)
+[----------] 1 test from _01829_MaximumXORForEachQuery1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

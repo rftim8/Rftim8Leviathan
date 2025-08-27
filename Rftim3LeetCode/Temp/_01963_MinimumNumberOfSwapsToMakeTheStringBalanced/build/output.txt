@@ -1,0 +1,21 @@
+Note: Google Test filter = *_01963_MinimumNumberOfSwapsToMakeTheStringBalanced.expected*:*_01963_MinimumNumberOfSwapsToMakeTheStringBalanced0.expected*:*_01963_MinimumNumberOfSwapsToMakeTheStringBalanced1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01963_MinimumNumberOfSwapsToMakeTheStringBalanced
+[ RUN      ] _01963_MinimumNumberOfSwapsToMakeTheStringBalanced.expected
+[       OK ] _01963_MinimumNumberOfSwapsToMakeTheStringBalanced.expected (0 ms)
+[----------] 1 test from _01963_MinimumNumberOfSwapsToMakeTheStringBalanced (0 ms total)
+
+[----------] 1 test from _01963_MinimumNumberOfSwapsToMakeTheStringBalanced0
+[ RUN      ] _01963_MinimumNumberOfSwapsToMakeTheStringBalanced0.expected
+[       OK ] _01963_MinimumNumberOfSwapsToMakeTheStringBalanced0.expected (0 ms)
+[----------] 1 test from _01963_MinimumNumberOfSwapsToMakeTheStringBalanced0 (0 ms total)
+
+[----------] 1 test from _01963_MinimumNumberOfSwapsToMakeTheStringBalanced1
+[ RUN      ] _01963_MinimumNumberOfSwapsToMakeTheStringBalanced1.expected
+[       OK ] _01963_MinimumNumberOfSwapsToMakeTheStringBalanced1.expected (0 ms)
+[----------] 1 test from _01963_MinimumNumberOfSwapsToMakeTheStringBalanced1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

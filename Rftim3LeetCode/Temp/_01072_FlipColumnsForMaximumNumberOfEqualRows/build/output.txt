@@ -1,0 +1,21 @@
+Note: Google Test filter = *_01072_FlipColumnsForMaximumNumberOfEqualRows.expected*:*_01072_FlipColumnsForMaximumNumberOfEqualRows0.expected*:*_01072_FlipColumnsForMaximumNumberOfEqualRows1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01072_FlipColumnsForMaximumNumberOfEqualRows
+[ RUN      ] _01072_FlipColumnsForMaximumNumberOfEqualRows.expected
+[       OK ] _01072_FlipColumnsForMaximumNumberOfEqualRows.expected (0 ms)
+[----------] 1 test from _01072_FlipColumnsForMaximumNumberOfEqualRows (0 ms total)
+
+[----------] 1 test from _01072_FlipColumnsForMaximumNumberOfEqualRows0
+[ RUN      ] _01072_FlipColumnsForMaximumNumberOfEqualRows0.expected
+[       OK ] _01072_FlipColumnsForMaximumNumberOfEqualRows0.expected (0 ms)
+[----------] 1 test from _01072_FlipColumnsForMaximumNumberOfEqualRows0 (0 ms total)
+
+[----------] 1 test from _01072_FlipColumnsForMaximumNumberOfEqualRows1
+[ RUN      ] _01072_FlipColumnsForMaximumNumberOfEqualRows1.expected
+[       OK ] _01072_FlipColumnsForMaximumNumberOfEqualRows1.expected (0 ms)
+[----------] 1 test from _01072_FlipColumnsForMaximumNumberOfEqualRows1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

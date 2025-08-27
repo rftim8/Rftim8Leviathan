@@ -1,0 +1,16 @@
+Note: Google Test filter = *_02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel.expected*:*_02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel0.expected*
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel
+[ RUN      ] _02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel.expected
+[       OK ] _02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel.expected (0 ms)
+[----------] 1 test from _02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel (0 ms total)
+
+[----------] 1 test from _02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel0
+[ RUN      ] _02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel0.expected
+[       OK ] _02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel0.expected (0 ms)
+[----------] 1 test from _02471_MinimumNumberOfOperationsToSortaBinaryTreeByLevel0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 2 tests.

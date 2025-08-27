@@ -1,0 +1,21 @@
+Note: Google Test filter = *_02257_CountUnguardedCellsInTheGrid.expected*:*_02257_CountUnguardedCellsInTheGrid0.expected*:*_02257_CountUnguardedCellsInTheGrid1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02257_CountUnguardedCellsInTheGrid
+[ RUN      ] _02257_CountUnguardedCellsInTheGrid.expected
+[       OK ] _02257_CountUnguardedCellsInTheGrid.expected (0 ms)
+[----------] 1 test from _02257_CountUnguardedCellsInTheGrid (0 ms total)
+
+[----------] 1 test from _02257_CountUnguardedCellsInTheGrid0
+[ RUN      ] _02257_CountUnguardedCellsInTheGrid0.expected
+[       OK ] _02257_CountUnguardedCellsInTheGrid0.expected (0 ms)
+[----------] 1 test from _02257_CountUnguardedCellsInTheGrid0 (0 ms total)
+
+[----------] 1 test from _02257_CountUnguardedCellsInTheGrid1
+[ RUN      ] _02257_CountUnguardedCellsInTheGrid1.expected
+[       OK ] _02257_CountUnguardedCellsInTheGrid1.expected (0 ms)
+[----------] 1 test from _02257_CountUnguardedCellsInTheGrid1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

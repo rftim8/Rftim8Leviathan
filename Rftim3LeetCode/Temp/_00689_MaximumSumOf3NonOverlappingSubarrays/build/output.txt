@@ -1,0 +1,21 @@
+Note: Google Test filter = *_00689_MaximumSumOf3NonOverlappingSubarrays.expected*:*_00689_MaximumSumOf3NonOverlappingSubarrays0.expected*:*_00689_MaximumSumOf3NonOverlappingSubarrays1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00689_MaximumSumOf3NonOverlappingSubarrays
+[ RUN      ] _00689_MaximumSumOf3NonOverlappingSubarrays.expected
+[       OK ] _00689_MaximumSumOf3NonOverlappingSubarrays.expected (0 ms)
+[----------] 1 test from _00689_MaximumSumOf3NonOverlappingSubarrays (0 ms total)
+
+[----------] 1 test from _00689_MaximumSumOf3NonOverlappingSubarrays0
+[ RUN      ] _00689_MaximumSumOf3NonOverlappingSubarrays0.expected
+[       OK ] _00689_MaximumSumOf3NonOverlappingSubarrays0.expected (0 ms)
+[----------] 1 test from _00689_MaximumSumOf3NonOverlappingSubarrays0 (0 ms total)
+
+[----------] 1 test from _00689_MaximumSumOf3NonOverlappingSubarrays1
+[ RUN      ] _00689_MaximumSumOf3NonOverlappingSubarrays1.expected
+[       OK ] _00689_MaximumSumOf3NonOverlappingSubarrays1.expected (0 ms)
+[----------] 1 test from _00689_MaximumSumOf3NonOverlappingSubarrays1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

@@ -1,0 +1,26 @@
+Note: Google Test filter = *_01639_NumberOfWaysToFormATargetStringGivenADictionary.expected*:*_01639_NumberOfWaysToFormATargetStringGivenADictionary0.expected*:*_01639_NumberOfWaysToFormATargetStringGivenADictionary1.expected*:*_01639_NumberOfWaysToFormATargetStringGivenADictionary2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01639_NumberOfWaysToFormATargetStringGivenADictionary
+[ RUN      ] _01639_NumberOfWaysToFormATargetStringGivenADictionary.expected
+[       OK ] _01639_NumberOfWaysToFormATargetStringGivenADictionary.expected (0 ms)
+[----------] 1 test from _01639_NumberOfWaysToFormATargetStringGivenADictionary (0 ms total)
+
+[----------] 1 test from _01639_NumberOfWaysToFormATargetStringGivenADictionary0
+[ RUN      ] _01639_NumberOfWaysToFormATargetStringGivenADictionary0.expected
+[       OK ] _01639_NumberOfWaysToFormATargetStringGivenADictionary0.expected (0 ms)
+[----------] 1 test from _01639_NumberOfWaysToFormATargetStringGivenADictionary0 (0 ms total)
+
+[----------] 1 test from _01639_NumberOfWaysToFormATargetStringGivenADictionary1
+[ RUN      ] _01639_NumberOfWaysToFormATargetStringGivenADictionary1.expected
+[       OK ] _01639_NumberOfWaysToFormATargetStringGivenADictionary1.expected (0 ms)
+[----------] 1 test from _01639_NumberOfWaysToFormATargetStringGivenADictionary1 (0 ms total)
+
+[----------] 1 test from _01639_NumberOfWaysToFormATargetStringGivenADictionary2
+[ RUN      ] _01639_NumberOfWaysToFormATargetStringGivenADictionary2.expected
+[       OK ] _01639_NumberOfWaysToFormATargetStringGivenADictionary2.expected (0 ms)
+[----------] 1 test from _01639_NumberOfWaysToFormATargetStringGivenADictionary2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

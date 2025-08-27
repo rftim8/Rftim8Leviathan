@@ -1,0 +1,26 @@
+Note: Google Test filter = *_01942_TheNumberOfTheSmallestUnoccupiedChair.expected*:*_01942_TheNumberOfTheSmallestUnoccupiedChair0.expected*:*_01942_TheNumberOfTheSmallestUnoccupiedChair1.expected*:*_01942_TheNumberOfTheSmallestUnoccupiedChair2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01942_TheNumberOfTheSmallestUnoccupiedChair
+[ RUN      ] _01942_TheNumberOfTheSmallestUnoccupiedChair.expected
+[       OK ] _01942_TheNumberOfTheSmallestUnoccupiedChair.expected (0 ms)
+[----------] 1 test from _01942_TheNumberOfTheSmallestUnoccupiedChair (0 ms total)
+
+[----------] 1 test from _01942_TheNumberOfTheSmallestUnoccupiedChair0
+[ RUN      ] _01942_TheNumberOfTheSmallestUnoccupiedChair0.expected
+[       OK ] _01942_TheNumberOfTheSmallestUnoccupiedChair0.expected (0 ms)
+[----------] 1 test from _01942_TheNumberOfTheSmallestUnoccupiedChair0 (0 ms total)
+
+[----------] 1 test from _01942_TheNumberOfTheSmallestUnoccupiedChair1
+[ RUN      ] _01942_TheNumberOfTheSmallestUnoccupiedChair1.expected
+[       OK ] _01942_TheNumberOfTheSmallestUnoccupiedChair1.expected (0 ms)
+[----------] 1 test from _01942_TheNumberOfTheSmallestUnoccupiedChair1 (0 ms total)
+
+[----------] 1 test from _01942_TheNumberOfTheSmallestUnoccupiedChair2
+[ RUN      ] _01942_TheNumberOfTheSmallestUnoccupiedChair2.expected
+[       OK ] _01942_TheNumberOfTheSmallestUnoccupiedChair2.expected (0 ms)
+[----------] 1 test from _01942_TheNumberOfTheSmallestUnoccupiedChair2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

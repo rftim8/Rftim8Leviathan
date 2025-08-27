@@ -1,0 +1,21 @@
+rft_strings:
+    - deprecated wstring
+
+ - unit test: implement test_status, runtime and memory
+
+ - testing (xUnit, MSTest):
+    - automation
+    - unit
+    - functional
+
+ - benchmark
+
+ - programming principles
+ - design patterns
+ 
+ - docker
+ - eks, kubernetes
+
+ - multithreading
+
+

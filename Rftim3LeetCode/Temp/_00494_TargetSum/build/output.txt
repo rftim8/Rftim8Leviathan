@@ -1,0 +1,26 @@
+Note: Google Test filter = *_00494_TargetSum.expected*:*_00494_TargetSum0.expected*:*_00494_TargetSum1.expected*:*_00494_TargetSum2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00494_TargetSum
+[ RUN      ] _00494_TargetSum.expected
+[       OK ] _00494_TargetSum.expected (0 ms)
+[----------] 1 test from _00494_TargetSum (0 ms total)
+
+[----------] 1 test from _00494_TargetSum0
+[ RUN      ] _00494_TargetSum0.expected
+[       OK ] _00494_TargetSum0.expected (0 ms)
+[----------] 1 test from _00494_TargetSum0 (0 ms total)
+
+[----------] 1 test from _00494_TargetSum1
+[ RUN      ] _00494_TargetSum1.expected
+[       OK ] _00494_TargetSum1.expected (0 ms)
+[----------] 1 test from _00494_TargetSum1 (0 ms total)
+
+[----------] 1 test from _00494_TargetSum2
+[ RUN      ] _00494_TargetSum2.expected
+[       OK ] _00494_TargetSum2.expected (0 ms)
+[----------] 1 test from _00494_TargetSum2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

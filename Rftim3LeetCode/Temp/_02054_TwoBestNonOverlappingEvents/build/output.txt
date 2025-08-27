@@ -1,0 +1,26 @@
+Note: Google Test filter = *_02054_TwoBestNonOverlappingEvents.expected*:*_02054_TwoBestNonOverlappingEvents0.expected*:*_02054_TwoBestNonOverlappingEvents1.expected*:*_02054_TwoBestNonOverlappingEvents2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02054_TwoBestNonOverlappingEvents
+[ RUN      ] _02054_TwoBestNonOverlappingEvents.expected
+[       OK ] _02054_TwoBestNonOverlappingEvents.expected (0 ms)
+[----------] 1 test from _02054_TwoBestNonOverlappingEvents (0 ms total)
+
+[----------] 1 test from _02054_TwoBestNonOverlappingEvents0
+[ RUN      ] _02054_TwoBestNonOverlappingEvents0.expected
+[       OK ] _02054_TwoBestNonOverlappingEvents0.expected (0 ms)
+[----------] 1 test from _02054_TwoBestNonOverlappingEvents0 (0 ms total)
+
+[----------] 1 test from _02054_TwoBestNonOverlappingEvents1
+[ RUN      ] _02054_TwoBestNonOverlappingEvents1.expected
+[       OK ] _02054_TwoBestNonOverlappingEvents1.expected (0 ms)
+[----------] 1 test from _02054_TwoBestNonOverlappingEvents1 (0 ms total)
+
+[----------] 1 test from _02054_TwoBestNonOverlappingEvents2
+[ RUN      ] _02054_TwoBestNonOverlappingEvents2.expected
+[       OK ] _02054_TwoBestNonOverlappingEvents2.expected (0 ms)
+[----------] 1 test from _02054_TwoBestNonOverlappingEvents2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

@@ -1,0 +1,26 @@
+Note: Google Test filter = *_02872_MaximumNumberOfKDivisibleComponents.expected*:*_02872_MaximumNumberOfKDivisibleComponents0.expected*:*_02872_MaximumNumberOfKDivisibleComponents1.expected*:*_02872_MaximumNumberOfKDivisibleComponents2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02872_MaximumNumberOfKDivisibleComponents
+[ RUN      ] _02872_MaximumNumberOfKDivisibleComponents.expected
+[       OK ] _02872_MaximumNumberOfKDivisibleComponents.expected (0 ms)
+[----------] 1 test from _02872_MaximumNumberOfKDivisibleComponents (0 ms total)
+
+[----------] 1 test from _02872_MaximumNumberOfKDivisibleComponents0
+[ RUN      ] _02872_MaximumNumberOfKDivisibleComponents0.expected
+[       OK ] _02872_MaximumNumberOfKDivisibleComponents0.expected (0 ms)
+[----------] 1 test from _02872_MaximumNumberOfKDivisibleComponents0 (0 ms total)
+
+[----------] 1 test from _02872_MaximumNumberOfKDivisibleComponents1
+[ RUN      ] _02872_MaximumNumberOfKDivisibleComponents1.expected
+[       OK ] _02872_MaximumNumberOfKDivisibleComponents1.expected (0 ms)
+[----------] 1 test from _02872_MaximumNumberOfKDivisibleComponents1 (0 ms total)
+
+[----------] 1 test from _02872_MaximumNumberOfKDivisibleComponents2
+[ RUN      ] _02872_MaximumNumberOfKDivisibleComponents2.expected
+[       OK ] _02872_MaximumNumberOfKDivisibleComponents2.expected (0 ms)
+[----------] 1 test from _02872_MaximumNumberOfKDivisibleComponents2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

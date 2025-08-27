@@ -1,0 +1,21 @@
+Note: Google Test filter = *_02938_SeparateBlackAndWhiteBalls.expected*:*_02938_SeparateBlackAndWhiteBalls0.expected*:*_02938_SeparateBlackAndWhiteBalls1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02938_SeparateBlackAndWhiteBalls
+[ RUN      ] _02938_SeparateBlackAndWhiteBalls.expected
+[       OK ] _02938_SeparateBlackAndWhiteBalls.expected (0 ms)
+[----------] 1 test from _02938_SeparateBlackAndWhiteBalls (0 ms total)
+
+[----------] 1 test from _02938_SeparateBlackAndWhiteBalls0
+[ RUN      ] _02938_SeparateBlackAndWhiteBalls0.expected
+[       OK ] _02938_SeparateBlackAndWhiteBalls0.expected (0 ms)
+[----------] 1 test from _02938_SeparateBlackAndWhiteBalls0 (0 ms total)
+
+[----------] 1 test from _02938_SeparateBlackAndWhiteBalls1
+[ RUN      ] _02938_SeparateBlackAndWhiteBalls1.expected
+[       OK ] _02938_SeparateBlackAndWhiteBalls1.expected (0 ms)
+[----------] 1 test from _02938_SeparateBlackAndWhiteBalls1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

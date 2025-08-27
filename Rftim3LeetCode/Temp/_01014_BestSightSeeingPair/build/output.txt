@@ -1,0 +1,26 @@
+Note: Google Test filter = *_01014_BestSightSeeingPair.expected*:*_01014_BestSightSeeingPair0.expected*:*_01014_BestSightSeeingPair1.expected*:*_01014_BestSightSeeingPair2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01014_BestSightSeeingPair
+[ RUN      ] _01014_BestSightSeeingPair.expected
+[       OK ] _01014_BestSightSeeingPair.expected (0 ms)
+[----------] 1 test from _01014_BestSightSeeingPair (0 ms total)
+
+[----------] 1 test from _01014_BestSightSeeingPair0
+[ RUN      ] _01014_BestSightSeeingPair0.expected
+[       OK ] _01014_BestSightSeeingPair0.expected (0 ms)
+[----------] 1 test from _01014_BestSightSeeingPair0 (0 ms total)
+
+[----------] 1 test from _01014_BestSightSeeingPair1
+[ RUN      ] _01014_BestSightSeeingPair1.expected
+[       OK ] _01014_BestSightSeeingPair1.expected (0 ms)
+[----------] 1 test from _01014_BestSightSeeingPair1 (0 ms total)
+
+[----------] 1 test from _01014_BestSightSeeingPair2
+[ RUN      ] _01014_BestSightSeeingPair2.expected
+[       OK ] _01014_BestSightSeeingPair2.expected (0 ms)
+[----------] 1 test from _01014_BestSightSeeingPair2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

@@ -1,0 +1,26 @@
+Note: Google Test filter = *_00632_SmallestRangeCoveringElementsFromKLists.expected*:*_00632_SmallestRangeCoveringElementsFromKLists0.expected*:*_00632_SmallestRangeCoveringElementsFromKLists1.expected*:*_00632_SmallestRangeCoveringElementsFromKLists2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00632_SmallestRangeCoveringElementsFromKLists
+[ RUN      ] _00632_SmallestRangeCoveringElementsFromKLists.expected
+[       OK ] _00632_SmallestRangeCoveringElementsFromKLists.expected (0 ms)
+[----------] 1 test from _00632_SmallestRangeCoveringElementsFromKLists (0 ms total)
+
+[----------] 1 test from _00632_SmallestRangeCoveringElementsFromKLists0
+[ RUN      ] _00632_SmallestRangeCoveringElementsFromKLists0.expected
+[       OK ] _00632_SmallestRangeCoveringElementsFromKLists0.expected (0 ms)
+[----------] 1 test from _00632_SmallestRangeCoveringElementsFromKLists0 (0 ms total)
+
+[----------] 1 test from _00632_SmallestRangeCoveringElementsFromKLists1
+[ RUN      ] _00632_SmallestRangeCoveringElementsFromKLists1.expected
+[       OK ] _00632_SmallestRangeCoveringElementsFromKLists1.expected (0 ms)
+[----------] 1 test from _00632_SmallestRangeCoveringElementsFromKLists1 (0 ms total)
+
+[----------] 1 test from _00632_SmallestRangeCoveringElementsFromKLists2
+[ RUN      ] _00632_SmallestRangeCoveringElementsFromKLists2.expected
+[       OK ] _00632_SmallestRangeCoveringElementsFromKLists2.expected (0 ms)
+[----------] 1 test from _00632_SmallestRangeCoveringElementsFromKLists2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

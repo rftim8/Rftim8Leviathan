@@ -1,0 +1,21 @@
+Note: Google Test filter = *_00042_TrappingRainWater.expected*:*_00042_TrappingRainWater0.expected*:*_00042_TrappingRainWater1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _00042_TrappingRainWater
+[ RUN      ] _00042_TrappingRainWater.expected
+[       OK ] _00042_TrappingRainWater.expected (0 ms)
+[----------] 1 test from _00042_TrappingRainWater (0 ms total)
+
+[----------] 1 test from _00042_TrappingRainWater0
+[ RUN      ] _00042_TrappingRainWater0.expected
+[       OK ] _00042_TrappingRainWater0.expected (0 ms)
+[----------] 1 test from _00042_TrappingRainWater0 (0 ms total)
+
+[----------] 1 test from _00042_TrappingRainWater1
+[ RUN      ] _00042_TrappingRainWater1.expected
+[       OK ] _00042_TrappingRainWater1.expected (0 ms)
+[----------] 1 test from _00042_TrappingRainWater1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.

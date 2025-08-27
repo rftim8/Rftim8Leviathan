@@ -1,0 +1,26 @@
+Note: Google Test filter = *_01223_DiceRollSimulation.expected*:*_01223_DiceRollSimulation0.expected*:*_01223_DiceRollSimulation1.expected*:*_01223_DiceRollSimulation2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01223_DiceRollSimulation
+[ RUN      ] _01223_DiceRollSimulation.expected
+[       OK ] _01223_DiceRollSimulation.expected (0 ms)
+[----------] 1 test from _01223_DiceRollSimulation (0 ms total)
+
+[----------] 1 test from _01223_DiceRollSimulation0
+[ RUN      ] _01223_DiceRollSimulation0.expected
+[       OK ] _01223_DiceRollSimulation0.expected (0 ms)
+[----------] 1 test from _01223_DiceRollSimulation0 (0 ms total)
+
+[----------] 1 test from _01223_DiceRollSimulation1
+[ RUN      ] _01223_DiceRollSimulation1.expected
+[       OK ] _01223_DiceRollSimulation1.expected (0 ms)
+[----------] 1 test from _01223_DiceRollSimulation1 (0 ms total)
+
+[----------] 1 test from _01223_DiceRollSimulation2
+[ RUN      ] _01223_DiceRollSimulation2.expected
+[       OK ] _01223_DiceRollSimulation2.expected (0 ms)
+[----------] 1 test from _01223_DiceRollSimulation2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

@@ -1,0 +1,26 @@
+Note: Google Test filter = *_01106_ParsingABooleanExpression.expected*:*_01106_ParsingABooleanExpression0.expected*:*_01106_ParsingABooleanExpression1.expected*:*_01106_ParsingABooleanExpression2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01106_ParsingABooleanExpression
+[ RUN      ] _01106_ParsingABooleanExpression.expected
+[       OK ] _01106_ParsingABooleanExpression.expected (0 ms)
+[----------] 1 test from _01106_ParsingABooleanExpression (0 ms total)
+
+[----------] 1 test from _01106_ParsingABooleanExpression0
+[ RUN      ] _01106_ParsingABooleanExpression0.expected
+[       OK ] _01106_ParsingABooleanExpression0.expected (0 ms)
+[----------] 1 test from _01106_ParsingABooleanExpression0 (0 ms total)
+
+[----------] 1 test from _01106_ParsingABooleanExpression1
+[ RUN      ] _01106_ParsingABooleanExpression1.expected
+[       OK ] _01106_ParsingABooleanExpression1.expected (0 ms)
+[----------] 1 test from _01106_ParsingABooleanExpression1 (0 ms total)
+
+[----------] 1 test from _01106_ParsingABooleanExpression2
+[ RUN      ] _01106_ParsingABooleanExpression2.expected
+[       OK ] _01106_ParsingABooleanExpression2.expected (0 ms)
+[----------] 1 test from _01106_ParsingABooleanExpression2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

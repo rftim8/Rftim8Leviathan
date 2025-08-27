@@ -1,0 +1,16 @@
+Note: Google Test filter = *_01910_RemoveAllOccurrencesOfASubstring.expected*:*_01910_RemoveAllOccurrencesOfASubstring_0.expected*
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _01910_RemoveAllOccurrencesOfASubstring
+[ RUN      ] _01910_RemoveAllOccurrencesOfASubstring.expected
+[       OK ] _01910_RemoveAllOccurrencesOfASubstring.expected (0 ms)
+[----------] 1 test from _01910_RemoveAllOccurrencesOfASubstring (0 ms total)
+
+[----------] 1 test from _01910_RemoveAllOccurrencesOfASubstring_0
+[ RUN      ] _01910_RemoveAllOccurrencesOfASubstring_0.expected
+[       OK ] _01910_RemoveAllOccurrencesOfASubstring_0.expected (0 ms)
+[----------] 1 test from _01910_RemoveAllOccurrencesOfASubstring_0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 2 tests.

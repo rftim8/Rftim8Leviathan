@@ -1,0 +1,16 @@
+Note: Google Test filter = *_02558_TakeGiftsFromTheRichestPile.expected*:*_02558_TakeGiftsFromTheRichestPile0.expected*
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02558_TakeGiftsFromTheRichestPile
+[ RUN      ] _02558_TakeGiftsFromTheRichestPile.expected
+[       OK ] _02558_TakeGiftsFromTheRichestPile.expected (0 ms)
+[----------] 1 test from _02558_TakeGiftsFromTheRichestPile (0 ms total)
+
+[----------] 1 test from _02558_TakeGiftsFromTheRichestPile0
+[ RUN      ] _02558_TakeGiftsFromTheRichestPile0.expected
+[       OK ] _02558_TakeGiftsFromTheRichestPile0.expected (0 ms)
+[----------] 1 test from _02558_TakeGiftsFromTheRichestPile0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 2 tests.

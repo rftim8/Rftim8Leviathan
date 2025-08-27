@@ -1,0 +1,11 @@
+Note: Google Test filter = *_00796_RotateString.expected*
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from _00796_RotateString
+[ RUN      ] _00796_RotateString.expected
+[       OK ] _00796_RotateString.expected (0 ms)
+[----------] 1 test from _00796_RotateString (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.

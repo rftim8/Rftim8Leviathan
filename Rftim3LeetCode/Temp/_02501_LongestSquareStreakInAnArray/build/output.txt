@@ -1,0 +1,26 @@
+Note: Google Test filter = *_02501_LongestSquareStreakInAnArray.expected*:*_02501_LongestSquareStreakInAnArray0.expected*:*_02501_LongestSquareStreakInAnArray1.expected*:*_02501_LongestSquareStreakInAnArray2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02501_LongestSquareStreakInAnArray
+[ RUN      ] _02501_LongestSquareStreakInAnArray.expected
+[       OK ] _02501_LongestSquareStreakInAnArray.expected (0 ms)
+[----------] 1 test from _02501_LongestSquareStreakInAnArray (0 ms total)
+
+[----------] 1 test from _02501_LongestSquareStreakInAnArray0
+[ RUN      ] _02501_LongestSquareStreakInAnArray0.expected
+[       OK ] _02501_LongestSquareStreakInAnArray0.expected (0 ms)
+[----------] 1 test from _02501_LongestSquareStreakInAnArray0 (0 ms total)
+
+[----------] 1 test from _02501_LongestSquareStreakInAnArray1
+[ RUN      ] _02501_LongestSquareStreakInAnArray1.expected
+[       OK ] _02501_LongestSquareStreakInAnArray1.expected (0 ms)
+[----------] 1 test from _02501_LongestSquareStreakInAnArray1 (0 ms total)
+
+[----------] 1 test from _02501_LongestSquareStreakInAnArray2
+[ RUN      ] _02501_LongestSquareStreakInAnArray2.expected
+[       OK ] _02501_LongestSquareStreakInAnArray2.expected (0 ms)
+[----------] 1 test from _02501_LongestSquareStreakInAnArray2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

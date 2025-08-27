@@ -1,0 +1,26 @@
+Note: Google Test filter = *_03152_SpecialArrayII.expected*:*_03152_SpecialArrayII0.expected*:*_03152_SpecialArrayII1.expected*:*_03152_SpecialArrayII2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _03152_SpecialArrayII
+[ RUN      ] _03152_SpecialArrayII.expected
+[       OK ] _03152_SpecialArrayII.expected (0 ms)
+[----------] 1 test from _03152_SpecialArrayII (0 ms total)
+
+[----------] 1 test from _03152_SpecialArrayII0
+[ RUN      ] _03152_SpecialArrayII0.expected
+[       OK ] _03152_SpecialArrayII0.expected (0 ms)
+[----------] 1 test from _03152_SpecialArrayII0 (0 ms total)
+
+[----------] 1 test from _03152_SpecialArrayII1
+[ RUN      ] _03152_SpecialArrayII1.expected
+[       OK ] _03152_SpecialArrayII1.expected (0 ms)
+[----------] 1 test from _03152_SpecialArrayII1 (0 ms total)
+
+[----------] 1 test from _03152_SpecialArrayII2
+[ RUN      ] _03152_SpecialArrayII2.expected
+[       OK ] _03152_SpecialArrayII2.expected (0 ms)
+[----------] 1 test from _03152_SpecialArrayII2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

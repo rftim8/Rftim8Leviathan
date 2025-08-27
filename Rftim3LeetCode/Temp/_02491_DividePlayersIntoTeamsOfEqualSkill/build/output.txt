@@ -1,0 +1,26 @@
+Note: Google Test filter = *_02491_DividePlayersIntoTeamsOfEqualSkill.expected*:*_02491_DividePlayersIntoTeamsOfEqualSkill0.expected*:*_02491_DividePlayersIntoTeamsOfEqualSkill1.expected*:*_02491_DividePlayersIntoTeamsOfEqualSkill2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02491_DividePlayersIntoTeamsOfEqualSkill
+[ RUN      ] _02491_DividePlayersIntoTeamsOfEqualSkill.expected
+[       OK ] _02491_DividePlayersIntoTeamsOfEqualSkill.expected (0 ms)
+[----------] 1 test from _02491_DividePlayersIntoTeamsOfEqualSkill (0 ms total)
+
+[----------] 1 test from _02491_DividePlayersIntoTeamsOfEqualSkill0
+[ RUN      ] _02491_DividePlayersIntoTeamsOfEqualSkill0.expected
+[       OK ] _02491_DividePlayersIntoTeamsOfEqualSkill0.expected (0 ms)
+[----------] 1 test from _02491_DividePlayersIntoTeamsOfEqualSkill0 (0 ms total)
+
+[----------] 1 test from _02491_DividePlayersIntoTeamsOfEqualSkill1
+[ RUN      ] _02491_DividePlayersIntoTeamsOfEqualSkill1.expected
+[       OK ] _02491_DividePlayersIntoTeamsOfEqualSkill1.expected (0 ms)
+[----------] 1 test from _02491_DividePlayersIntoTeamsOfEqualSkill1 (0 ms total)
+
+[----------] 1 test from _02491_DividePlayersIntoTeamsOfEqualSkill2
+[ RUN      ] _02491_DividePlayersIntoTeamsOfEqualSkill2.expected
+[       OK ] _02491_DividePlayersIntoTeamsOfEqualSkill2.expected (0 ms)
+[----------] 1 test from _02491_DividePlayersIntoTeamsOfEqualSkill2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

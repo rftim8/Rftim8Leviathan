@@ -1,0 +1,26 @@
+Note: Google Test filter = *_02364_CountNumberOfBadPairs.expected*:*_02364_CountNumberOfBadPairs_0.expected*:*_02364_CountNumberOfBadPairs_1.expected*:*_02364_CountNumberOfBadPairs_2.expected*
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02364_CountNumberOfBadPairs
+[ RUN      ] _02364_CountNumberOfBadPairs.expected
+[       OK ] _02364_CountNumberOfBadPairs.expected (0 ms)
+[----------] 1 test from _02364_CountNumberOfBadPairs (0 ms total)
+
+[----------] 1 test from _02364_CountNumberOfBadPairs_0
+[ RUN      ] _02364_CountNumberOfBadPairs_0.expected
+[       OK ] _02364_CountNumberOfBadPairs_0.expected (0 ms)
+[----------] 1 test from _02364_CountNumberOfBadPairs_0 (0 ms total)
+
+[----------] 1 test from _02364_CountNumberOfBadPairs_1
+[ RUN      ] _02364_CountNumberOfBadPairs_1.expected
+[       OK ] _02364_CountNumberOfBadPairs_1.expected (0 ms)
+[----------] 1 test from _02364_CountNumberOfBadPairs_1 (0 ms total)
+
+[----------] 1 test from _02364_CountNumberOfBadPairs_2
+[ RUN      ] _02364_CountNumberOfBadPairs_2.expected
+[       OK ] _02364_CountNumberOfBadPairs_2.expected (0 ms)
+[----------] 1 test from _02364_CountNumberOfBadPairs_2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.

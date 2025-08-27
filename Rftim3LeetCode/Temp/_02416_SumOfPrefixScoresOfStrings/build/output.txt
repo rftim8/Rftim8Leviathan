@@ -1,0 +1,16 @@
+Note: Google Test filter = *_02416_SumOfPrefixScoresOfStrings.expected*:*_02416_SumOfPrefixScoresOfStrings0.expected*
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _02416_SumOfPrefixScoresOfStrings
+[ RUN      ] _02416_SumOfPrefixScoresOfStrings.expected
+[       OK ] _02416_SumOfPrefixScoresOfStrings.expected (0 ms)
+[----------] 1 test from _02416_SumOfPrefixScoresOfStrings (0 ms total)
+
+[----------] 1 test from _02416_SumOfPrefixScoresOfStrings0
+[ RUN      ] _02416_SumOfPrefixScoresOfStrings0.expected
+[       OK ] _02416_SumOfPrefixScoresOfStrings0.expected (0 ms)
+[----------] 1 test from _02416_SumOfPrefixScoresOfStrings0 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 2 tests.

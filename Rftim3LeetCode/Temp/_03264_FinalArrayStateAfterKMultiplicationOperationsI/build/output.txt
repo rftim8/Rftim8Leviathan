@@ -1,0 +1,21 @@
+Note: Google Test filter = *_03264_FinalArrayStateAfterKMultiplicationOperationsI.expected*:*_03264_FinalArrayStateAfterKMultiplicationOperationsI0.expected*:*_03264_FinalArrayStateAfterKMultiplicationOperationsI1.expected*
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from _03264_FinalArrayStateAfterKMultiplicationOperationsI
+[ RUN      ] _03264_FinalArrayStateAfterKMultiplicationOperationsI.expected
+[       OK ] _03264_FinalArrayStateAfterKMultiplicationOperationsI.expected (0 ms)
+[----------] 1 test from _03264_FinalArrayStateAfterKMultiplicationOperationsI (0 ms total)
+
+[----------] 1 test from _03264_FinalArrayStateAfterKMultiplicationOperationsI0
+[ RUN      ] _03264_FinalArrayStateAfterKMultiplicationOperationsI0.expected
+[       OK ] _03264_FinalArrayStateAfterKMultiplicationOperationsI0.expected (0 ms)
+[----------] 1 test from _03264_FinalArrayStateAfterKMultiplicationOperationsI0 (0 ms total)
+
+[----------] 1 test from _03264_FinalArrayStateAfterKMultiplicationOperationsI1
+[ RUN      ] _03264_FinalArrayStateAfterKMultiplicationOperationsI1.expected
+[       OK ] _03264_FinalArrayStateAfterKMultiplicationOperationsI1.expected (0 ms)
+[----------] 1 test from _03264_FinalArrayStateAfterKMultiplicationOperationsI1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.
