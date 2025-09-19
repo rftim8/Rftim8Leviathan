@@ -7,8 +7,8 @@ find_package(CUDAToolkit)
 # target_compile_definitions(${CMAKE_PROJECT_NAME} PUBLIC DATA_PATH="${CMAKE_CURRENT_SOURCE_DIR}/../Data/") # development
 # target_compile_definitions(${CMAKE_PROJECT_NAME} PUBLIC DATA_PATH="./Data/") # shipping
 
-# project(Rftim3AdventOfCode VERSION 0.1.0 LANGUAGES C CXX)
-# add_subdirectory(Rftim3AdventOfCode)
+project(Rftim3AdventOfCode VERSION 0.1.0 LANGUAGES C CXX)
+add_subdirectory(Rftim3AdventOfCode)
 
 # project(Rftim3AtCoderJP VERSION 0.1.0 LANGUAGES C CXX)
 # add_subdirectory(Rftim3AtCoderJP)
@@ -52,9 +52,9 @@ find_package(CUDAToolkit)
 # project(Rftim3ProjectEuler VERSION 0.1.0 LANGUAGES C CXX)
 # add_subdirectory(Rftim3ProjectEuler)
 
-project(Rftim3Vulkan VERSION 0.1.0 LANGUAGES C CXX)
-add_subdirectory(Rftim3Vulkan)
-add_subdirectory(Rftim3VKEngine)
+# project(Rftim3Vulkan VERSION 0.1.0 LANGUAGES C CXX)
+# add_subdirectory(Rftim3Vulkan)
+# add_subdirectory(Rftim3VKEngine)
 
 # project(Rftim3Win32 VERSION 0.1.0 LANGUAGES C CXX)
 # add_subdirectory(Rftim3Win32)
@@ -136,3 +136,6 @@ add_subdirectory(Rftim3VKEngine)
 
 add_subdirectory(Rftim3STL_C)
 add_subdirectory(Rftim3STL_CPP)
+project(aoc_00000001_Y22 VERSION 0.1.0 LANGUAGES C CXX)
+add_subdirectory(Rftim3AdventOfCode/Problems/AdventOfCode_2022/aoc_00000001_Y22)
+

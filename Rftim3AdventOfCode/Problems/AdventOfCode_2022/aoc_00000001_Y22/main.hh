@@ -16,5 +16,5 @@ static void dataCollector()
     }
 };
 
-int aoc_00000001Y18_0(std::vector<int> nums);
-void aoc_00000001Y18_0_test(int case_nr, int actual, int expected);
+int aoc_00000001_Y22_0(std::vector<int> nums);
+void aoc_00000001_Y22_0_test(int case_nr, int actual, int expected);

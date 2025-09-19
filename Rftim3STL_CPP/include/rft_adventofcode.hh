@@ -1018,7 +1018,7 @@ static std::string refactorProblemNumber(std::string current_file)
 {
     std::string problem_name = "";
     size_t last_pos = current_file.find_last_of('\\');
-    
+
     if (last_pos != std::string::npos)
     {
         size_t prev_pos = current_file.find_last_of('\\', last_pos - 1);
@@ -1030,4 +1030,3 @@ static std::string refactorProblemNumber(std::string current_file)
 
     return problem_name;
 }
-

@@ -1,4 +1,4 @@
-set(PROJECT_TARGET aoc_00000001Y22)
+set(PROJECT_TARGET aoc_00000001_Y22)
 
 file(
     GLOB all_files

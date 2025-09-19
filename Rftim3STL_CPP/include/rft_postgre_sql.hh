@@ -10,7 +10,7 @@ static std::string getPGLeviathanConnectionString()
 
     _dupenv_s(&host, &len, "PGHOST");
     _dupenv_s(&port, &len, "PGPORT");
-    _dupenv_s(&dbname, &len, "PGCPDB");
+    _dupenv_s(&dbname, &len, "PGLeviathanDB");
     _dupenv_s(&user, &len, "PGUSER");
     _dupenv_s(&password, &len, "PGPASSWORD");
 
